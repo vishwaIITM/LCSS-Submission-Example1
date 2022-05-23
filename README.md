@@ -2,4 +2,4 @@
 
 Julia and Matlab codes for analyzing the solutions of coupled Algebraic Riccati  equations in Example 1
 
-$p_{11}$
+$P_1=\begin{array}p_{11}$
